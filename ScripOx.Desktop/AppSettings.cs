@@ -28,8 +28,8 @@ public static class AppSettings
     public static string Theme    { get; set; } = "dark";
 
     // ── GitHub Auto-Update ───────────────────────────────────
-    public static string GitHubOwner { get; set; } = "OxTech-uk";
-    public static string GitHubRepo  { get; set; } = "ScripOx";
+    public static string GitHubOwner { get; set; } = "oxtechuk";
+    public static string GitHubRepo  { get; set; } = "Scripox";
     public static bool AutoCheckUpdatesOnStartup { get; set; } = true;
 }
 
